@@ -1,4 +1,4 @@
-# EX. NO.5 Heart attack prediction using MLP
+# EX. NO.6 Heart attack prediction using MLP
 <H3>NAME: AARON I</H3>
 <H3>REGISTER NUMBER: 212223230002</H3>
 <H3>DATE: </H3>
